@@ -136,7 +136,7 @@ Slicers: Risk Classification, Supplier Country.
 ---
 
 ## Author
-**Mahmoud Sh.**
+**Mahmoud Shiri**
 Supply Chain & Procurement professional with MSc degrees and expertise 
 in logistics, sourcing, and supply chain analytics.
 
